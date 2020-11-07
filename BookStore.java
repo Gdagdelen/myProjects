@@ -4,19 +4,7 @@ import java.util.HashMap;
 import java.util.Map.Entry;
 import java.util.Scanner;
 public class BookStore {
-	/* 	
-	    Let’s write an application for bookstores
-		Rules
-		You should create book id for every book. It should be start from 1000
-		Every book should have some information like name, author, year of publication and price
-		Program should start with a menu for user can pick any option
-		1) add book
-		2) search by book id
-		3) search by any information
-		4) delete by book id
-		5) List all books
-		6) Quit
-	 */
+	
 	
 	
 	static int id=1000;	
